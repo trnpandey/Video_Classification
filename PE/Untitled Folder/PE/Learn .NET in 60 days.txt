@@ -1,0 +1,16 @@
+﻿0	www.youtube.com/watch?v=yh2SrzCkNQA	.NET Interview Preparation videos	6:43	(Beginners) Learn .NET and c# (Csharp) in 60 days - Lab 1 (Day 1)
+1	www.youtube.com/watch?v=LXUjsAEWFco	.NET Interview Preparation videos	5:17	(Beginners) Learn .NET and c# (Csharp) in 60 days - Lab 2 (Day 1)
+2	www.youtube.com/watch?v=p-n6WK_Vp5w	.NET Interview Preparation videos	6:24	(Beginners) Learn .NET and c# (Csharp) in 60 days - Lab 5 (Day 1)
+3	www.youtube.com/watch?v=KL_r359Ec8E	.NET Interview Preparation videos	3:29	Beginners Learn .NET and c# (Csharp) in 60 days Lab 6 day 2 :- Commenting
+4	www.youtube.com/watch?v=PmlwKTm8xDg	.NET Interview Preparation videos	8:51	Beginners Lab 7 Day 2 :- Learn c# (Csharp) and .NET in 60 days ( for LOOPs)
+5	www.youtube.com/watch?v=zu4r4AwNwdI	.NET Interview Preparation videos	4:18	c# (Csharp) :- Class1 creates objects of Class2 and Class2 creates of Class1 what will happen ?
+6	www.youtube.com/watch?v=s7rayFHk3P4	.NET Interview Preparation videos	8:40	Beginners Lab 8 Day 2 :- Learn c#  & .NET in 60 days (Creating a simple calculator application)
+7	www.youtube.com/watch?v=Ya5LnnoZVcY	.NET Interview Preparation videos	13:34	Learn .NET and c# (Csharp) in 60 days(Lab 9):- Creating your First windows application.
+8	www.youtube.com/watch?v=FhS30CvaiJM	.NET Interview Preparation videos	9:54	Learn .NET and C# (Csharp) in 60 Days Lab12(Day 4): - MDI(Multiple Document Interface)
+9	www.youtube.com/watch?v=jjE9AFlUa7U	.NET Interview Preparation videos	21:03	Learn .NET and C# (Csharp) in 60 Days Lab14(Day 6): - Getting Data from SQL Server
+10	www.youtube.com/watch?v=TlSiklt9KIc	.NET Interview Preparation videos	24:11	Learn .NET and C# (Csharp) in 60 Days Lab15(Day 7): - Inserting data into SQL Server
+11	www.youtube.com/watch?v=z2K3BmHcOH4	.NET Interview Preparation videos	25:34	Learn .NET and C# (Csharp) in 60 Days Lab17(Day 8): - Delete functionality
+12	www.youtube.com/watch?v=XyrgvrBvfIk	.NET Interview Preparation videos	29:13	Learn c# (Csharp) day 9 , Lab 19 :- Creating a two tier architecture in c# ( Freshers and Beginners)
+13	www.youtube.com/watch?v=GAw_foQVZwo	.NET Interview Preparation videos	20:07	Learn .NET and C# (Csharp) in 60 Days Lab22(Day 11&12): - Implementing Insert, Update & Delete
+14	www.youtube.com/watch?v=PK4vAnJgOR0	.NET Interview Preparation videos	23:59	Learn .NET and C# (Csharp) in 60 Days Lab 24 (Day 14): - Security
+15	www.youtube.com/watch?v=kgZ51Ryy6Oo	.NET Interview Preparation videos	29:04	(Day 18) Lab 28: - Learn .NET and C# (Csharp) in 60 days - 1 to many relationship.

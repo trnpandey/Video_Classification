@@ -1,0 +1,4 @@
+daftar = open('Organic Chemistry.txt','r')
+daftar_link = open('Organic Chemistry123.txt','wb')
+for d in daftar:
+	daftar_link.write("http://"+d.split("\t")[1]+"\n")
