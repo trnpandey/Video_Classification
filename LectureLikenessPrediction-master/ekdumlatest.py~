@@ -1,0 +1,2 @@
+from scriptlatest import frameFeature
+frameFeature('MR1')
